@@ -1,0 +1,8 @@
+com\tutorialpoint\rest\JerseyRestClient.class
+com\tutorialpoint\rest\Bean\Jobj.class
+com\tutorialpoint\rest\Main.class
+com\tutorialpoint\rest\JerseyRestClient$1.class
+com\tutorialpoint\rest\Controller\DownloadController.class
+com\tutorialpoint\rest\Controller\UserController.class
+com\tutorialpoint\rest\Dao\UserDao.class
+com\tutorialpoint\rest\Bean\User.class
